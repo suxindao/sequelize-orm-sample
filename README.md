@@ -2,6 +2,11 @@
 http://thekeunster.com/2016/05/11/Setting-up-an-ORM-in-Node-JS-Part-2/
 
 ### Setup
+Using MYSQL
+
+SQL: magic-platform.sql
+PORT: 33306
+
 ```
 npm install
 typings install
